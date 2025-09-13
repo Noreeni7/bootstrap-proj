@@ -1,9 +1,17 @@
+/* =================== Carousel ======================== */
 .c-item{
     height: 480px;
 }
 
+/* ================== Carousel Images ================== */
 .c-img{
     height: 100%;
     object-fit: cover;
     filter: brightness(0.6);
+}
+
+/* ====================== Overview ====================== */
+.overview{
+    height: 180px;
+    background-color: grey;
 }
